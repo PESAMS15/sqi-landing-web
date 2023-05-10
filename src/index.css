@@ -63,3 +63,15 @@ code {
   text-align: left;
   color: white;
 }
+.ljc{
+  width: 50%;
+}
+@media (max-width:784px) {
+  .ljc{
+    width: 100%;
+    text-align: center;
+  }
+  .nj{
+    align-items: center;
+  }
+}

@@ -18,18 +18,18 @@ const Main3 = () => {
         <h3 className='w-50'>Our alumni work at world-class companies around the world including</h3>
 
         <div className="d-flex flex-wrap justify-content-center my-5">
-            <img  className='mx-3' src={i11} alt="" />
-            <img  className='mx-3' src={i2} alt="" />
-            <img  className='mx-3' src={i1} alt="" />
-            <img  className='mx-3' src={i3} alt="" />
-            <img  className='mx-3' src={i5} alt="" />
-            <img  className='mx-3' src={i8} alt="" />
-            <img  className='mx-3' src={i6} alt="" />
-            <img  className='mx-3' src={i9} alt="" />
-            <img  className='mx-3' src={i10} alt="" />
-            <img  className='mx-3' src={i12} alt="" />
-            <img  className='mx-3' src={i4} alt="" />
-            <img  className='mx-3' src={i7} alt="" />
+            <img  className='mx-2 mx-sm-4' src={i11} alt="" />
+            <img  className='mx-2 mx-sm-4' src={i2} alt="" />
+            <img  className='mx-2 mx-sm-4' src={i1} alt="" />
+            <img  className='mx-2 mx-sm-4' src={i3} alt="" />
+            <img  className='mx-2 mx-sm-4' src={i5} alt="" />
+            <img  className='mx-2 mx-sm-4' src={i8} alt="" />
+            <img  className='mx-2 mx-sm-4' src={i6} alt="" />
+            <img  className='mx-2 mx-sm-4' src={i9} alt="" />
+            <img  className='mx-2 mx-sm-4' src={i10} alt="" />
+            <img  className='mx-2 mx-sm-4' src={i12} alt="" />
+            <img  className='mx-2 mx-sm-4' src={i4} alt="" />
+            <img  className='mx-2 mx-sm-4' src={i7} alt="" />
         </div>
 
         

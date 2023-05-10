@@ -2,11 +2,11 @@ import React from 'react'
 import Logo from './Assets/co.jpg'
 const Nav = () => {
   return (
-    <nav className='shadow'>
+    <nav className='shadow position-sticky top-0 bg-white'>
 
     <div className='d-flex  align-items-center justify-content-between p-3 container-md'>
         <img className='sqi' src={Logo} alt="" />
-        <div className="d-flex">
+        <div className="d-md-flex d-none ">
           <div className="par position-relative mx-3 fw-bold text-primary">
             <a href="#" className='text-decoration-none h-e'>About</a>
             <div className="chi text-black shadow">
