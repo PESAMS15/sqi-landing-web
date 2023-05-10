@@ -6,6 +6,7 @@ import Nav from './Nav';
 import Main1 from './Main1';
 import Main2 from './Main2';
 import reportWebVitals from './reportWebVitals';
+import Main3 from './Main3';
 import 'bootstrap/dist/css/bootstrap.min.css'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -14,6 +15,7 @@ root.render(
     <Nav /> 
     <Main1 /> 
     <Main2 />
+    <Main3  />
   </React.StrictMode>
 );
 
