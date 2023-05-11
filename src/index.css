@@ -35,6 +35,13 @@ code {
   /* background-color: antiquewhite; */
   padding-bottom: 54px;
 }
+.gj{
+  background-image: url(./Assets/bk.jpg);
+  background-position: center;
+  background-size: cover;
+  background-blend-mode: darken;
+  background-color: rgba(1, 1, 56, 0.751);
+}
 .st{
   font-size: 80px;
   padding: 0px 70px;
@@ -69,7 +76,7 @@ code {
 @media (max-width:784px) {
   .ljc{
     width: 100%;
-    text-align: center;
+    text-align: center  ;
   }
   .nj{
     align-items: center;

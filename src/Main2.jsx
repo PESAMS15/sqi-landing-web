@@ -2,7 +2,7 @@ import React from 'react'
 
 const Main2 = () => {
   return (
-    <div className='p-sm-5 p-2 gj bg-primary text-white'>
+    <div className='p-sm-5 p-2 gj  text-white'>
         <div className='container-md '>
            <div className="nj">
                 <h3 className='text-center '>SCICT AT A GLANCE</h3>

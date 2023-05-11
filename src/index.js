@@ -8,6 +8,7 @@ import Main2 from './Main2';
 import reportWebVitals from './reportWebVitals';
 import Main3 from './Main3';
 import Main4 from './Main4';
+import Main5 from './Main5';
 import 'bootstrap/dist/css/bootstrap.min.css'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -18,6 +19,7 @@ root.render(
     <Main2 />
     <Main3  />
     <Main4  />
+    <Main5  />
   </React.StrictMode>
 );
 

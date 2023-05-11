@@ -3,7 +3,8 @@ import grad from './Assets/sqi-graduate1.webp'
 
 const Main4 = () => {
   return (
-    <div className='container-md row align-items-center mx-auto justify-content-between'> 
+        <div className="bg-light py-5">
+              <div className='container-md row align-items-center mx-auto justify-content-between'> 
         <img className='col-md' src={grad} alt="" />
         <div className='col-md mx-md-4'>
             <h1>
@@ -13,6 +14,7 @@ const Main4 = () => {
             <p className="text-secondary hh">SQI College of ICT is closely watching the interaction of industry and academia, getting feedback from our industry partners to provide the needed training while concentrating to contribute industry needed professionals in a very flexible study structure.</p>
         </div>
     </div>
+        </div>
   )
 }
 
